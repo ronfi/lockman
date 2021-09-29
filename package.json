@@ -20,7 +20,7 @@
   "dependencies": {
     "cify": "^2.1.1",
     "ntils": "^2.0.3",
-    "oneport": "^1.0.2",
+    "oneport": "git+https://github.com/ronfi/oneport.git",
     "split": "^1.0.0"
   },
   "devDependencies": {
